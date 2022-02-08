@@ -74,13 +74,14 @@ right: 20%;
   margin: 5% 5% 5% 0;
 }
 
+
 @media (max-width: 1028px){
   .title-img{
     position: static;
     transform: rotate(0);
-    width: 60%;
-    text-align: center;
-  }
+    width: 60%;}
+  #title .container-fluid{
+    text-align: center;}
 }
 
 /* Features */
